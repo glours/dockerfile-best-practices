@@ -15,6 +15,10 @@ RUN wget -qO - https://www.mongodb.org/static/pgp/server-4.2.asc | apt-key add -
   && apt-get install -y mongodb-org-server
 RUN apt-get install -y nginx
 
+VOLUME /tmp
+ARG JAR_FILE
+COPY ${JAR_FILE} app.jar
+
 COPY docker-entrypoint.sh /docker-entrypoint.sh
 RUN chmod +x /docker-entrypoint.sh
 
