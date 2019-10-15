@@ -10,6 +10,10 @@ RUN apt-get install -y wget gnupg \
   && apt-get install -y mongodb-org-server
 RUN apt-get install -y nginx
 
+VOLUME /tmp
+ARG JAR_FILE
+COPY ${JAR_FILE} app.jar
+
 COPY docker-entrypoint.sh /docker-entrypoint.sh
 RUN chmod +x /docker-entrypoint.sh
 
