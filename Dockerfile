@@ -10,6 +10,9 @@ RUN apt-get install -y wget gnupg \
   && apt-get install -y mongodb-org-server
 RUN apt-get install -y nginx
 
+# create storage folder for mongodb
+RUN mkdir -p /data/db
+
 VOLUME /tmp
 ARG JAR_FILE
 COPY ${JAR_FILE} app.jar
