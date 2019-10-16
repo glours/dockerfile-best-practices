@@ -1,9 +1,6 @@
 spring:
   data:
     mongodb:
-      authentication-database: admin
-      username: root
-      password: root
-      database: test_db
+      database: beer
       port: 27017
       host: localhost
