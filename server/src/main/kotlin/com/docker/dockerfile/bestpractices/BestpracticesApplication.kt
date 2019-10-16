@@ -27,7 +27,9 @@ class BestpracticesApplication {
 			val objectMapper = jacksonObjectMapper()
 
 			val beers: List<Record> = objectMapper.readValue(openBeer.inputStream)
-			repository.saveAll(beers.map { r -> r.beer })
+			repository.saveAll(beers
+					.filter {r -> r.beer.coordinates.isNotEmpty() }
+					.map { r -> r.beer })
 		}
 	}
 }
