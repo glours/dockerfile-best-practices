@@ -11,6 +11,8 @@ RUN apt-get install -y wget gnupg \
   && apt-get install -y mongodb-org-server
 RUN apt-get install -y nginx
 
+COPY proxy/nginx.conf /etc/nginx/sites-available/default
+
 # Install server
 VOLUME /tmp
 ARG JAR_FILE
