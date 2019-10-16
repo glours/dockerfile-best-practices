@@ -11,7 +11,11 @@ RUN apt-get install -y wget gnupg \
   && apt-get install -y mongodb-org-server
 RUN apt-get install -y nginx
 
+# Create nginx configuration
 COPY proxy/nginx.conf /etc/nginx/sites-available/default
+
+# Create storage folder for mongodb
+RUN mkdir -p /data/db
 
 # Install server
 VOLUME /tmp
