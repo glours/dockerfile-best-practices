@@ -16,6 +16,8 @@ RUN wget -qO - https://www.mongodb.org/static/pgp/server-4.2.asc | apt-key add -
   && apt-get install -y mongodb-org-server
 RUN apt-get install -y nginx
 
+COPY proxy/nginx.conf /etc/nginx/sites-available/default
+
 # Install server
 VOLUME /tmp
 ARG JAR_FILE

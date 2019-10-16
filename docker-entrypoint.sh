@@ -1,11 +1,14 @@
 #!/bin/bash
 
 function start_server() {
-  # blocking
-  java -Djava.security.egd=file:/dev/./urandom -jar /app.jar
+  # non blocking
+  java -Djava.security.egd=file:/dev/./urandom -jar /app.jar &
 }
 
 function start_nginx() {
-  # non blocking
-  nginx
+  # blocking
+  nginx -g "daemon off;"
 }
+
+start_server
+start_nginx
