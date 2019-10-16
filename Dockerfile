@@ -18,9 +18,9 @@ COPY proxy/nginx.conf /etc/nginx/sites-available/default
 RUN mkdir -p /data/db
 
 # Install server
-VOLUME /tmp
-ARG JAR_FILE
-COPY ${JAR_FILE} app.jar
+COPY server /workdir/server
+WORKDIR /workdir/server
+RUN ./mvnw package
 
 # Build client
 COPY client /workdir/client
