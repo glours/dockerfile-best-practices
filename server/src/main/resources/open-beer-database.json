@@ -111,7 +111,7 @@
       "website": "http://www.cantillon.be/",
       "city": "Anderlecht",
       "style_id": "70",
-      "name": "Cuv\u00c3\u00a9e des Champions 2003-2004",
+      "name": "Cuvée des Champions 2003-2004",
       "country": "Belgium",
       "cat_id": "5",
       "brewery_id": "202",
@@ -147,7 +147,7 @@
     "fields": {
       "brewery_id": "174",
       "city": "Montignies-sur-Roc",
-      "name": "Sp\u00c3\u00a9ciale No\u00c3\u00abl",
+      "name": "Spéciale Noêl",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -471,7 +471,7 @@
       "country": "Belgium",
       "cat_id": "5",
       "brewery_id": "272",
-      "descript": "An arabier is a pure malt beer 8\u00c2\u00b0vol/alc brewed with flower Nugget-hops from Poperinge. It has the special dry-hopping taste and aroma, so appreciated by beer lovers all over the world. It is one of the two main beers from De Dolle Brouwers throughout the year. Aging time is limited due to the fact that hop bitterness is declining with the time. Store arabier cool and dark and serve cool at 10\u00c2\u00b0C. Cheers!",
+      "descript": "An arabier is a pure malt beer 8ºvol/alc brewed with flower Nugget-hops from Poperinge. It has the special dry-hopping taste and aroma, so appreciated by beer lovers all over the world. It is one of the two main beers from De Dolle Brouwers throughout the year. Aging time is limited due to the fact that hop bitterness is declining with the time. Store arabier cool and dark and serve cool at 10ºC. Cheers!",
       "upc": 0,
       "coordinates": [
         51.0281,
@@ -509,7 +509,7 @@
       "country": "Belgium",
       "cat_id": "3",
       "brewery_id": "296",
-      "descript": "The latest acquisition \u00e2\u20ac\u0153Grottenbier\u00e2\u20ac\u009d was created by Master Brewer Pierre Celis. It is an aromatic dark beer with 6.5% alcohol content.\n\n\nIn the marl pits in Kanne ( Belgium) and Valkenburg (the Netherlands), deep under the ground, you can taste the Grottenbier in a constant temperature of 11\u00c2\u00b0 Celsius.\n\n\nAs it is the case with Champagne, the bottles are placed in a \u00e2\u20ac\u0153pupitre\u00e2\u20ac\u009d with results in an additional fermentation. \n\n\nThis beer with a high fermentation with a second fermentation in the bottle has been pointed out as one of the best 10 present-day beers by beer guru Michael Jackson.",
+      "descript": "The latest acquisition \u00e2\u20ac\u0153Grottenbier\u00e2\u20ac\u009d was created by Master Brewer Pierre Celis. It is an aromatic dark beer with 6.5% alcohol content.\n\n\nIn the marl pits in Kanne ( Belgium) and Valkenburg (the Netherlands), deep under the ground, you can taste the Grottenbier in a constant temperature of 11º Celsius.\n\n\nAs it is the case with Champagne, the bottles are placed in a \u00e2\u20ac\u0153pupitre\u00e2\u20ac\u009d with results in an additional fermentation. \n\n\nThis beer with a high fermentation with a second fermentation in the bottle has been pointed out as one of the best 10 present-day beers by beer guru Michael Jackson.",
       "upc": 0,
       "coordinates": [
         50.8425,
@@ -615,7 +615,7 @@
       "country": "Belgium",
       "cat_id": "5",
       "brewery_id": "1273",
-      "descript": "DOUBLE BLONDE 6\u00c2\u00b0\n\nCopper-coloured beer with a honey aroma, a full and smooth flavour and a gently evolving aftertaste",
+      "descript": "DOUBLE BLONDE 6º\n\nCopper-coloured beer with a honey aroma, a full and smooth flavour and a gently evolving aftertaste",
       "upc": 0,
       "coordinates": [
         51.0873,
@@ -995,7 +995,7 @@
     "fields": {
       "brewery_id": "191",
       "city": "Ellezelles",
-      "name": "La Bi\u00c3\u00a8re des Collines van de Saisis",
+      "name": "La Bière des Collines van de Saisis",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -1174,7 +1174,7 @@
     "fields": {
       "brewery_id": "288",
       "city": "Vlezenbeek",
-      "name": "Cuv\u00c3\u00a9e Ren\u00c3\u00a9 Grand Cru Gueuze Lambic",
+      "name": "Cuvée René Grand Cru Gueuze Lambic",
       "cat_name": "Belgian and French Ale",
       "country": "Belgium",
       "cat_id": "5",
@@ -1794,7 +1794,7 @@
       "website": "http://www.anthonymartin.be/",
       "city": "Itterbeek",
       "style_id": "70",
-      "name": "Timmermans P\u00c3\u00aache",
+      "name": "Timmermans Pêche",
       "country": "Belgium",
       "cat_id": "5",
       "brewery_id": "1266",
@@ -1829,7 +1829,7 @@
     "fields": {
       "brewery_id": "181",
       "city": "Jalhay-Vervifontaine",
-      "name": "Bi\u00c3\u00a8re du Lion",
+      "name": "Bière du Lion",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -1852,7 +1852,7 @@
     "fields": {
       "brewery_id": "288",
       "city": "Vlezenbeek",
-      "name": "P\u00c3\u00aache / Pecheresse",
+      "name": "Pêche / Pecheresse",
       "cat_name": "Belgian and French Ale",
       "country": "Belgium",
       "cat_id": "5",
@@ -1888,7 +1888,7 @@
     "fields": {
       "brewery_id": "191",
       "city": "Ellezelles",
-      "name": "La Quintine Ambr\u00c3\u00a9e / Amber",
+      "name": "La Quintine Ambrée / Amber",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -2087,7 +2087,7 @@
     "fields": {
       "brewery_id": "168",
       "city": "Ecaussinnes",
-      "name": "Ultra Ambr\u00c3\u00a9e",
+      "name": "Ultra Ambrée",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -2122,11 +2122,11 @@
       "website": "http://www.chimay.com",
       "city": "Chimay",
       "style_id": "72",
-      "name": "Chimay Dor\u00c3\u00a9e",
+      "name": "Chimay Dorée",
       "country": "Belgium",
       "cat_id": "5",
       "brewery_id": "378",
-      "descript": "Brewed from very similar ingredients as the Red, but paler and spiced differently. It is intended only to be drunk at the abbey or at the nearby inn Auberge de Poteaupr\u00c3\u00a9 which is associated with the abbey. The monks themselves drink this variety rather than the stronger three. The Dor\u00c3\u00a9e is not sold commercially and the rare bottles which make their way out are through unofficial sources. Even the brewery's own web site makes no mention of this variety.",
+      "descript": "Brewed from very similar ingredients as the Red, but paler and spiced differently. It is intended only to be drunk at the abbey or at the nearby inn Auberge de Poteaupré which is associated with the abbey. The monks themselves drink this variety rather than the stronger three. The Dorée is not sold commercially and the rare bottles which make their way out are through unofficial sources. Even the brewery's own web site makes no mention of this variety.",
       "upc": 0,
       "coordinates": [
         50.0355,
@@ -2369,7 +2369,7 @@
     "fields": {
       "brewery_id": "170",
       "city": "Blaugies",
-      "name": "Moneuse Speciale No\u00c3\u00abl",
+      "name": "Moneuse Speciale Noêl",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -2475,7 +2475,7 @@
       "country": "Belgium",
       "cat_id": "-1",
       "brewery_id": "171",
-      "descript": "A classic Belgian Bi\u00c3\u00a8re de Garde - full of fruity esters, alcohol phenols, Belgian malts, noble hops and a dry, refreshing after-taste.  Award-wining Mont Saint-Aubert received 'World's Best\" recognition in the Bi\u00c3\u00a8re de Garde category during the 2009 World Beer Awards (London).\n\nIn 2008 Mont Saint-Aubert took Silver medals in the Belgian-Style Pale Strong Ale category at the Brewers Association World Beer Cup and the Australian International Beer Awards.",
+      "descript": "A classic Belgian Bière de Garde - full of fruity esters, alcohol phenols, Belgian malts, noble hops and a dry, refreshing after-taste.  Award-wining Mont Saint-Aubert received 'World's Best\" recognition in the Bière de Garde category during the 2009 World Beer Awards (London).\n\nIn 2008 Mont Saint-Aubert took Silver medals in the Belgian-Style Pale Strong Ale category at the Brewers Association World Beer Cup and the Australian International Beer Awards.",
       "upc": 0,
       "coordinates": [
         50.5109,
@@ -2651,7 +2651,7 @@
       "country": "Belgium",
       "cat_id": "-1",
       "brewery_id": "378",
-      "descript": "Named Grande R\u00c3\u00a9serve in 75 cl (25.4 fl.oz.) bottles, it is principally distinguished by its character of a strong beer. \n\n\nThis is a beer whose fragrance of fresh yeast with a light, flowery rosy touch is especially pleasant. \n\n\nIts flavour, noticed when tasting it, only accentuates the pleasant sensations perceived in the aroma , while revealing a light but pleasant touch of roasted malt.\n\n\nThis top fermented Trappist beer , refermented in the bottle, is not pasteurised.",
+      "descript": "Named Grande Réserve in 75 cl (25.4 fl.oz.) bottles, it is principally distinguished by its character of a strong beer. \n\n\nThis is a beer whose fragrance of fresh yeast with a light, flowery rosy touch is especially pleasant. \n\n\nIts flavour, noticed when tasting it, only accentuates the pleasant sensations perceived in the aroma , while revealing a light but pleasant touch of roasted malt.\n\n\nThis top fermented Trappist beer , refermented in the bottle, is not pasteurised.",
       "upc": 0,
       "coordinates": [
         50.0355,
@@ -2717,7 +2717,7 @@
       "website": "http://www.brunehaut.com/",
       "city": "Brunehaut",
       "style_id": "72",
-      "name": "Brasserie De Brunehaut Bio Bi\u00c3\u00a8re Blonde (Organic)",
+      "name": "Brasserie De Brunehaut Bio Bière Blonde (Organic)",
       "country": "Belgium",
       "cat_id": "5",
       "brewery_id": "171",
@@ -3277,7 +3277,7 @@
     "fields": {
       "website": "http://www.achelsekluis.org/",
       "city": "Achel",
-      "name": "Achel Bruin 5\u00c2\u00b0",
+      "name": "Achel Bruin 5º",
       "cat_name": "North American Ale",
       "country": "Belgium",
       "cat_id": "3",
@@ -3492,7 +3492,7 @@
       "website": "http://www.cantillon.be/",
       "city": "Anderlecht",
       "style_id": "70",
-      "name": "Ros\u00c3\u00a9 de Gambrinus",
+      "name": "Rosé de Gambrinus",
       "country": "Belgium",
       "cat_id": "5",
       "brewery_id": "202",
@@ -3657,7 +3657,7 @@
     "fields": {
       "brewery_id": "277",
       "city": "Wevelgem",
-      "name": "P\u00c3\u00a8re No\u00c3\u00abl",
+      "name": "Père Noêl",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -3937,7 +3937,7 @@
     "fields": {
       "website": "http://www.sintbernardus.be",
       "city": "Watou",
-      "name": "Bi\u00c3\u00a8re Blanche",
+      "name": "Bière Blanche",
       "country": "Belgium",
       "cat_id": "-1",
       "brewery_id": "296",
@@ -4008,7 +4008,7 @@
     "fields": {
       "brewery_id": "270",
       "city": "Achel",
-      "name": "Trappist Bruin Bier / Bi\u00c3\u00a8re Brune",
+      "name": "Trappist Bruin Bier / Bière Brune",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -4116,7 +4116,7 @@
     "fields": {
       "brewery_id": "194",
       "city": "Binche",
-      "name": "Reserve Speciale / Sp\u00c3\u00a9ciale No\u00c3\u00abl",
+      "name": "Reserve Speciale / Spéciale Noêl",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -4952,7 +4952,7 @@
       "cat_name": "North American Ale",
       "country": "Belgium",
       "cat_id": "3",
-      "descript": "Description : Dark Ale, strong, spicy, lightly hoppy, with evoluting taste. Natural Beer, bottle refermented, unfiltered, not pasteurised and without any additives\n\n\nAlcohol : 8,5% alc./vol.\n\n\nOriginal gravity : 16 \u00c2\u00b0Plato\n\n\nStorage : Store the bottles vertically in a cold place, sheltered from light. The yeast deposit can either be drunk or left according to taste\n\n\nServe at : 8 to 12\u00c2\u00b0C (botlle)",
+      "descript": "Description : Dark Ale, strong, spicy, lightly hoppy, with evoluting taste. Natural Beer, bottle refermented, unfiltered, not pasteurised and without any additives\n\n\nAlcohol : 8,5% alc./vol.\n\n\nOriginal gravity : 16 ºPlato\n\n\nStorage : Store the bottles vertically in a cold place, sheltered from light. The yeast deposit can either be drunk or left according to taste\n\n\nServe at : 8 to 12ºC (botlle)",
       "upc": 0,
       "coordinates": [
         50.1507,
@@ -5060,7 +5060,7 @@
       "cat_name": "Belgian and French Ale",
       "country": "Belgium",
       "cat_id": "5",
-      "descript": "In 1963, the Benedictine abbey of Maredsous entrusted the production and sales of the famed Maredsous beers to Duvel Moortgat. The monks continue to exercise strict control over its recipes and quality standards right up to today.\n\n\n \n\n\nRegardless of what colour or taste you choose, the Maredsous range has everything to intrigue you. These aromatic, delicate, fruity and velvety beers supplement each other in a perfect harmony as far as both colour and taste experience are concerned.\n\n\nThe blonde Maredsous with 6% alcohol content, the brown one with 8% alcohol content and the triple one with 10% alcohol content ripen first for two full months before they depart to their final destination. The specific bottle fermentation, refined by the brewery for its main brand Duvel, also give the Maredsous abbey beers an extra dimension. \t \n\n\nAbout Maredsous\n\n\nThe triple Maredsous with 10% alcohol content is one of the favourite beers of Michael Jackson, the outstanding beer \u00e2\u20ac\u2122pope\u00e2\u20ac\u2122:\n\n\"These beers have long been my favourites. Above all the 10\u00c2\u00b0 is an especially tasty beer.\";\"0",
+      "descript": "In 1963, the Benedictine abbey of Maredsous entrusted the production and sales of the famed Maredsous beers to Duvel Moortgat. The monks continue to exercise strict control over its recipes and quality standards right up to today.\n\n\n \n\n\nRegardless of what colour or taste you choose, the Maredsous range has everything to intrigue you. These aromatic, delicate, fruity and velvety beers supplement each other in a perfect harmony as far as both colour and taste experience are concerned.\n\n\nThe blonde Maredsous with 6% alcohol content, the brown one with 8% alcohol content and the triple one with 10% alcohol content ripen first for two full months before they depart to their final destination. The specific bottle fermentation, refined by the brewery for its main brand Duvel, also give the Maredsous abbey beers an extra dimension. \t \n\n\nAbout Maredsous\n\n\nThe triple Maredsous with 10% alcohol content is one of the favourite beers of Michael Jackson, the outstanding beer \u00e2\u20ac\u2122pope\u00e2\u20ac\u2122:\n\n\"These beers have long been my favourites. Above all the 10º is an especially tasty beer.\";\"0",
       "upc": 0,
       "coordinates": [
         51.2206,
@@ -5196,7 +5196,7 @@
       "website": "http://www.chimay.com",
       "city": "Chimay",
       "style_id": "60",
-      "name": "Chimay Premi\u00c3\u00a8re (Chimay Red)",
+      "name": "Chimay Première (Chimay Red)",
       "country": "Belgium",
       "cat_id": "5",
       "brewery_id": "378",
@@ -5448,7 +5448,7 @@
       "country": "Belgium",
       "cat_id": "7",
       "brewery_id": "690",
-      "descript": "Jupiler is the most famous and most popular beer in Belgium. This delicious lager is brewed with the finest ingredients (malt, maize, water, hop, yeast), using undisputed craftsmanship, ensuring an outstanding beer quality. Jupiler offers refreshment on a wide variety of occasions, thanks to its digestibility and accessible taste. Jupiler (5,2 % ABV) is ideally served at a temperature of 3\u00c2\u00b0C. The low-alcoholic variant Jupiler N.A. (0.5%) should be served at 1-2\u00c2\u00b0C.\n\n\nJupiler has an outspoken image of masculinity, courage and adventure. Furthermore, Jupiler understands men like no other brand and shares their best moments. This combination of male bonding, self-confidence and self-relativation, speaks to all men and makes Jupiler an ally on their road through life.\n\n\nJupiler is the official sponsor of the highest Belgian football division, the Jupiler League, and also supports the Belgian national football team. Just like football, Jupiler is all about competence and ruggedness, effort and effort reward, team spirit and... festivity!",
+      "descript": "Jupiler is the most famous and most popular beer in Belgium. This delicious lager is brewed with the finest ingredients (malt, maize, water, hop, yeast), using undisputed craftsmanship, ensuring an outstanding beer quality. Jupiler offers refreshment on a wide variety of occasions, thanks to its digestibility and accessible taste. Jupiler (5,2 % ABV) is ideally served at a temperature of 3ºC. The low-alcoholic variant Jupiler N.A. (0.5%) should be served at 1-2ºC.\n\n\nJupiler has an outspoken image of masculinity, courage and adventure. Furthermore, Jupiler understands men like no other brand and shares their best moments. This combination of male bonding, self-confidence and self-relativation, speaks to all men and makes Jupiler an ally on their road through life.\n\n\nJupiler is the official sponsor of the highest Belgian football division, the Jupiler League, and also supports the Belgian national football team. Just like football, Jupiler is all about competence and ruggedness, effort and effort reward, team spirit and... festivity!",
       "upc": 0,
       "coordinates": [
         50.8865,
@@ -5515,7 +5515,7 @@
     "fields": {
       "brewery_id": "189",
       "city": "Tourpes",
-      "name": "Bi\u00c3\u00a8re de Miel",
+      "name": "Bière de Miel",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -5999,7 +5999,7 @@
     "fields": {
       "brewery_id": "248",
       "city": "Ternat",
-      "name": "Chapeau P\u00c3\u00aache Lambic",
+      "name": "Chapeau Pêche Lambic",
       "cat_name": "Belgian and French Ale",
       "country": "Belgium",
       "cat_id": "5",
@@ -6140,7 +6140,7 @@
     "fields": {
       "brewery_id": "192",
       "city": "Soy",
-      "name": "Speciale No\u00c3\u00abl",
+      "name": "Speciale Noêl",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -6174,7 +6174,7 @@
     "fields": {
       "brewery_id": "164",
       "city": "Habay-Rulles",
-      "name": "Bi\u00c3\u00a8re de Gamme",
+      "name": "Bière de Gamme",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -6416,7 +6416,7 @@
     "fields": {
       "website": "http://www.brunehaut.com/",
       "city": "Brunehaut",
-      "name": "Abbaye de Saint-Martin Cuv\u00c3\u00a9e de Noel",
+      "name": "Abbaye de Saint-Martin Cuvée de Noel",
       "country": "Belgium",
       "cat_id": "-1",
       "brewery_id": "171",
@@ -6667,7 +6667,7 @@
     "fields": {
       "website": "http://www.achelsekluis.org/",
       "city": "Achel",
-      "name": "Achel Bruin 8\u00c2\u00b0",
+      "name": "Achel Bruin 8º",
       "cat_name": "Belgian and French Ale",
       "country": "Belgium",
       "cat_id": "5",
@@ -7253,7 +7253,7 @@
     "fields": {
       "brewery_id": "170",
       "city": "Blaugies",
-      "name": "Bi\u00c3\u00a8re Darbyste",
+      "name": "Bière Darbyste",
       "cat_name": "Other Style",
       "country": "Belgium",
       "cat_id": "11",
@@ -7326,7 +7326,7 @@
     "fields": {
       "website": "http://www.achelsekluis.org/",
       "city": "Achel",
-      "name": "Achel Blond 5\u00c2\u00b0",
+      "name": "Achel Blond 5º",
       "cat_name": "Belgian and French Ale",
       "country": "Belgium",
       "cat_id": "5",
@@ -7467,7 +7467,7 @@
     "fields": {
       "website": "http://www.hetanker.be/",
       "city": "Mechelen",
-      "name": "Gouden Carolus No\u00c3\u00abl",
+      "name": "Gouden Carolus Noêl",
       "country": "Belgium",
       "cat_id": "-1",
       "brewery_id": "284",
@@ -7713,7 +7713,7 @@
     "fields": {
       "brewery_id": "279",
       "city": "Opwijk",
-      "name": "Affligem No\u00c3\u00abl",
+      "name": "Affligem Noêl",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -7957,7 +7957,7 @@
     "fields": {
       "brewery_id": "174",
       "city": "Montignies-sur-Roc",
-      "name": "Triple Imp\u00c3\u00a9riale",
+      "name": "Triple Impériale",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -8348,7 +8348,7 @@
     "fields": {
       "brewery_id": "188",
       "city": "Pipaix",
-      "name": "Scaldis No\u00c3\u00abl / Bush No\u00c3\u00abl",
+      "name": "Scaldis Noêl / Bush Noêl",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -8525,7 +8525,7 @@
       "country": "Belgium",
       "cat_id": "5",
       "brewery_id": "1273",
-      "descript": "TONGERLO CHRISTMAS 6,5\u00c2\u00b0\n\nCopper-coloured beer of pure spring barley, with a touch of vanilla in the aroma, a fruity and complex flavour and a smooth aftertaste.",
+      "descript": "TONGERLO CHRISTMAS 6,5º\n\nCopper-coloured beer of pure spring barley, with a touch of vanilla in the aroma, a fruity and complex flavour and a smooth aftertaste.",
       "upc": 0,
       "coordinates": [
         51.0873,
@@ -8947,7 +8947,7 @@
     "fields": {
       "brewery_id": "167",
       "city": "Houffalize-Achouffe",
-      "name": "Bi\u00c3\u00a8re de Mars",
+      "name": "Bière de Mars",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -8981,7 +8981,7 @@
     "fields": {
       "brewery_id": "285",
       "city": "Melle",
-      "name": "Delirium No\u00c3\u00abl",
+      "name": "Delirium Noêl",
       "cat_name": "Belgian and French Ale",
       "country": "Belgium",
       "cat_id": "5",
@@ -9045,7 +9045,7 @@
       "cat_name": "Belgian and French Ale",
       "country": "Belgium",
       "cat_id": "5",
-      "descript": "In 1963, the Benedictine abbey of Maredsous entrusted the production and sales of the famed Maredsous beers to Duvel Moortgat. The monks continue to exercise strict control over its recipes and quality standards right up to today.\n\n\n \n\n\nRegardless of what colour or taste you choose, the Maredsous range has everything to intrigue you. These aromatic, delicate, fruity and velvety beers supplement each other in a perfect harmony as far as both colour and taste experience are concerned.\n\n\nThe blonde Maredsous with 6% alcohol content, the brown one with 8% alcohol content and the triple one with 10% alcohol content ripen first for two full months before they depart to their final destination. The specific bottle fermentation, refined by the brewery for its main brand Duvel, also give the Maredsous abbey beers an extra dimension. \t \n\n\nAbout Maredsous\n\n\nThe triple Maredsous with 10% alcohol content is one of the favourite beers of Michael Jackson, the outstanding beer \u00e2\u20ac\u2122pope\u00e2\u20ac\u2122:\n\n\"These beers have long been my favourites. Above all the 10\u00c2\u00b0 is an especially tasty beer.\";\"0",
+      "descript": "In 1963, the Benedictine abbey of Maredsous entrusted the production and sales of the famed Maredsous beers to Duvel Moortgat. The monks continue to exercise strict control over its recipes and quality standards right up to today.\n\n\n \n\n\nRegardless of what colour or taste you choose, the Maredsous range has everything to intrigue you. These aromatic, delicate, fruity and velvety beers supplement each other in a perfect harmony as far as both colour and taste experience are concerned.\n\n\nThe blonde Maredsous with 6% alcohol content, the brown one with 8% alcohol content and the triple one with 10% alcohol content ripen first for two full months before they depart to their final destination. The specific bottle fermentation, refined by the brewery for its main brand Duvel, also give the Maredsous abbey beers an extra dimension. \t \n\n\nAbout Maredsous\n\n\nThe triple Maredsous with 10% alcohol content is one of the favourite beers of Michael Jackson, the outstanding beer \u00e2\u20ac\u2122pope\u00e2\u20ac\u2122:\n\n\"These beers have long been my favourites. Above all the 10º is an especially tasty beer.\";\"0",
       "upc": 0,
       "coordinates": [
         51.0442,
@@ -9495,7 +9495,7 @@
       "website": "http://www.brunehaut.com/",
       "city": "Brunehaut",
       "style_id": "33",
-      "name": "Brasserie de Brunehaut Bio Bi\u00c3\u00a8re Ambr\u00c3\u00a9e (Organic)",
+      "name": "Brasserie de Brunehaut Bio Bière Ambrée (Organic)",
       "country": "Belgium",
       "cat_id": "3",
       "brewery_id": "171",
@@ -9670,7 +9670,7 @@
     "fields": {
       "website": "http://www.achelsekluis.org/",
       "city": "Achel",
-      "name": "Achel Blond 8\u00c2\u00b0",
+      "name": "Achel Blond 8º",
       "cat_name": "Belgian and French Ale",
       "country": "Belgium",
       "cat_id": "5",
@@ -9706,7 +9706,7 @@
       "website": "http://www.brunehaut.com/",
       "city": "Brunehaut",
       "style_id": "67",
-      "name": "Brasserie de Brunehaut Bio Bi\u00c3\u00a8re Blanche (Organic)",
+      "name": "Brasserie de Brunehaut Bio Bière Blanche (Organic)",
       "country": "Belgium",
       "cat_id": "5",
       "brewery_id": "171",
@@ -9880,7 +9880,7 @@
     "fields": {
       "brewery_id": "238",
       "city": "Raeren",
-      "name": "Rader Ambr\u00c3\u00a9e",
+      "name": "Rader Ambrée",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -10121,7 +10121,7 @@
     "fields": {
       "brewery_id": "173",
       "city": "Chimay-Forges",
-      "name": "Premi\u00c3\u00a8re (Red)",
+      "name": "Première (Red)",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -10571,7 +10571,7 @@
     "fields": {
       "brewery_id": "687",
       "city": "Evergem",
-      "name": "Bi\u00c3\u00a8re du Boucanier",
+      "name": "Bière du Boucanier",
       "country": "Belgium",
       "cat_id": "-1",
       "upc": 0,
@@ -11220,7 +11220,7 @@
       "country": "Belgium",
       "cat_id": "5",
       "brewery_id": "1273",
-      "descript": "DOUBLE BROWN 6\u00c2\u00b0\n\nRed brown beer with a smooth gentle aroma, a full flavour and a slightly roasted aftertaste.",
+      "descript": "DOUBLE BROWN 6º\n\nRed brown beer with a smooth gentle aroma, a full flavour and a slightly roasted aftertaste.",
       "upc": 0,
       "coordinates": [
         51.0873,
@@ -11287,7 +11287,7 @@
     "fields": {
       "brewery_id": "288",
       "city": "Vlezenbeek",
-      "name": "Gueuze Cuv\u00c3\u00a9e Ren\u00c3\u00a9",
+      "name": "Gueuze Cuvée René",
       "country": "Belgium",
       "cat_id": "-1",
       "descript": "A golden hue sets off the wonderful almost champagne like taste.",
