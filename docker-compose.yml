@@ -1,14 +1,29 @@
 version: '3.7'
 
 services:
+  proxy:
+    image: dbp-proxy:1.0.0
+    ports:
+      - 8081:80
+    networks:
+      - frontend
+
   client:
     image: dbp-client:1.0.0
+    networks:
+      - frontend
+      - backend
 
   server:
-    image: dbp-server:latest
+    image: dbp-server:1.0.0
+    networks:
+      - frontend
+      - backend
 
   mongo:
     image: dbp-mongo:1.0.0
+    networks:
+      - backend
 
 networks:
   frontend: {}

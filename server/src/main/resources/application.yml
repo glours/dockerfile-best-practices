@@ -3,4 +3,4 @@ spring:
     mongodb:
       database: beer
       port: 27017
-      host: localhost
+      host: mongo
