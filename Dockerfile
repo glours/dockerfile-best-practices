@@ -4,18 +4,10 @@ FROM debian:buster
 RUN apt-get update -y
 RUN apt-get install -y openjdk-11-jdk
 RUN apt-get install -y nodejs npm
-RUN apt-get install -y wget gnupg \
-  && wget -qO - https://www.mongodb.org/static/pgp/server-4.2.asc | apt-key add - \
-  && echo "deb http://repo.mongodb.org/apt/debian buster/mongodb-org/testing main" | tee /etc/apt/sources.list.d/mongodb-org-testing.list \
-  && apt-get update \
-  && apt-get install -y mongodb-org-server
 RUN apt-get install -y nginx
 
 # Create nginx configuration
 COPY proxy/nginx.conf /etc/nginx/sites-available/default
-
-# Create storage folder for mongodb
-RUN mkdir -p /data/db
 
 # Install server
 COPY server /workdir/server
