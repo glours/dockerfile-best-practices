@@ -1,10 +1,14 @@
 FROM node:12.12.0-alpine AS builder
 
-COPY . /workdir/client
 WORKDIR /workdir/client
-RUN npm install
+
+COPY package.json /workdir/client/package.json
+COPY package-lock.json /workdir/client/package-lock.json
+RUN npm ci
+
+COPY . /workdir/client
 RUN npm run build
 
 FROM nginx:alpine
 
-COPY --from=builder /workdir/client/build /var/www/html
+COPY --from=builder /workdir/client/build /usr/share/nginx/html
