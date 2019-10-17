@@ -1,8 +1,4 @@
-FROM debian:buster
-
-# Install dependencies
-RUN apt-get update -y
-RUN apt-get install -y openjdk-11-jdk
+FROM openjdk:13.0.1-slim-buster
 
 # Install server
 COPY . /workdir/server
