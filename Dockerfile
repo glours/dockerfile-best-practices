@@ -1,10 +1,12 @@
 FROM debian:buster
 
 # Install dependencies
-RUN apt-get update -y
-RUN apt-get install -y openjdk-11-jdk
-RUN apt-get install -y nodejs npm
-RUN apt-get install -y nginx
+RUN apt-get update -y \
+  && apt-get install --no-install-recommends -y \
+    openjdk-11-jdk \
+    nodejs npm \
+    nginx \
+  && rm -rf /var/lib/apt/lists/*
 
 # Create nginx configuration
 COPY proxy/nginx.conf /etc/nginx/sites-available/default
