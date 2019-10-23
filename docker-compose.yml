@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  client:
+    image: dbp-client:1.0.0
+
+  server:
+    image: dbp-server:latest
+
+  mongo:
+    image: dbp-mongo:1.0.0
+
+networks:
+  frontend: {}
+  backend: {}
