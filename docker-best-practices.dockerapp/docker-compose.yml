@@ -1,0 +1,30 @@
+version: '3.7'
+
+services:
+  proxy:
+    image: gloursdocker/dbp-proxy:1.0.0
+    ports:
+      - ${hostport}:80
+    networks:
+      - frontend
+
+  client:
+    image: gloursdocker/dbp-client:1.0.0
+    networks:
+      - frontend
+      - backend
+
+  server:
+    image: gloursdocker/dbp-server:1.0.0
+    networks:
+      - frontend
+      - backend
+
+  mongo:
+    image: mongo:4.0-xenial
+    networks:
+      - backend
+
+networks:
+  frontend: {}
+  backend: {}
