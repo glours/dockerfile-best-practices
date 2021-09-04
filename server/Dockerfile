@@ -1,4 +1,4 @@
-FROM openjdk:13.0.1-slim-buster AS builder
+FROM openjdk:18-slim-buster AS builder
 
 # Install server
 WORKDIR /workdir/server
